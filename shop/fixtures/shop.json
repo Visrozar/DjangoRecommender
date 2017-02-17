@@ -1,0 +1,443 @@
+[
+  {
+    "model": "shop.Shops",
+    "pk": 1,
+    "fields": {
+      "name": "Barbara Reese",
+      "latitude": -83.271735,
+      "longitude": 50.172196
+    }
+  },
+  {
+    "model": "shop.Shops",
+    "pk": 2,
+    "fields": {
+      "name": "Fisher Todd",
+      "latitude": 1.480736,
+      "longitude": 27.460686
+    }
+  },
+  {
+    "model": "shop.Shops",
+    "pk": 3,
+    "fields": {
+      "name": "Sheryl Vega",
+      "latitude": -11.555513,
+      "longitude": -111.826405
+    }
+  },
+  {
+    "model": "shop.Shops",
+    "pk": 4,
+    "fields": {
+      "name": "Watts Owens",
+      "latitude": 74.483282,
+      "longitude": -56.871477
+    }
+  },
+  {
+    "model": "shop.Shops",
+    "pk": 5,
+    "fields": {
+      "name": "Lynda Crosby",
+      "latitude": -83.104836,
+      "longitude": 87.39335
+    }
+  },
+  {
+    "model": "shop.Shops",
+    "pk": 6,
+    "fields": {
+      "name": "Gay Payne",
+      "latitude": 20.992535,
+      "longitude": -30.145836
+    }
+  },
+  {
+    "model": "shop.Shops",
+    "pk": 7,
+    "fields": {
+      "name": "Meadows Callahan",
+      "latitude": 46.818265,
+      "longitude": 85.295335
+    }
+  },
+  {
+    "model": "shop.Shops",
+    "pk": 8,
+    "fields": {
+      "name": "Tiffany Calderon",
+      "latitude": 62.212845,
+      "longitude": -147.490617
+    }
+  },
+  {
+    "model": "shop.Shops",
+    "pk": 9,
+    "fields": {
+      "name": "Avis Cervantes",
+      "latitude": 7.269125,
+      "longitude": 44.833072
+    }
+  },
+  {
+    "model": "shop.Shops",
+    "pk": 10,
+    "fields": {
+      "name": "Nannie Rocha",
+      "latitude": 51.832279,
+      "longitude": -93.388816
+    }
+  },
+  {
+    "model": "shop.Shops",
+    "pk": 11,
+    "fields": {
+      "name": "Lesley Landry",
+      "latitude": -77.082189,
+      "longitude": 19.764426
+    }
+  },
+  {
+    "model": "shop.Shops",
+    "pk": 12,
+    "fields": {
+      "name": "Holly Howell",
+      "latitude": -58.224478,
+      "longitude": -164.540727
+    }
+  },
+  {
+    "model": "shop.Shops",
+    "pk": 13,
+    "fields": {
+      "name": "Morton Boyer",
+      "latitude": -11.473032,
+      "longitude": 95.727744
+    }
+  },
+  {
+    "model": "shop.Shops",
+    "pk": 14,
+    "fields": {
+      "name": "Strong Hopkins",
+      "latitude": 52.167763,
+      "longitude": -59.617871
+    }
+  },
+  {
+    "model": "shop.Shops",
+    "pk": 15,
+    "fields": {
+      "name": "Navarro Berger",
+      "latitude": 44.514875,
+      "longitude": 155.903794
+    }
+  },
+  {
+    "model": "shop.Shops",
+    "pk": 16,
+    "fields": {
+      "name": "Louisa David",
+      "latitude": -73.726485,
+      "longitude": -9.186997
+    }
+  },
+  {
+    "model": "shop.Shops",
+    "pk": 17,
+    "fields": {
+      "name": "Erna Wilkinson",
+      "latitude": -17.188466,
+      "longitude": -32.397039
+    }
+  },
+  {
+    "model": "shop.Shops",
+    "pk": 18,
+    "fields": {
+      "name": "Alford Flores",
+      "latitude": 89.484035,
+      "longitude": -77.158484
+    }
+  },
+  {
+    "model": "shop.Shops",
+    "pk": 19,
+    "fields": {
+      "name": "Good Conner",
+      "latitude": 83.630523,
+      "longitude": 62.961647
+    }
+  },
+  {
+    "model": "shop.Shops",
+    "pk": 20,
+    "fields": {
+      "name": "Avila Welch",
+      "latitude": 46.985276,
+      "longitude": -145.282447
+    }
+  },
+  {
+    "model": "shop.Shops",
+    "pk": 21,
+    "fields": {
+      "name": "Shields Small",
+      "latitude": 7.291386,
+      "longitude": 33.830077
+    }
+  },
+  {
+    "model": "shop.Shops",
+    "pk": 22,
+    "fields": {
+      "name": "Harrington Blankenship",
+      "latitude": 87.760913,
+      "longitude": -80.669591
+    }
+  },
+  {
+    "model": "shop.Shops",
+    "pk": 23,
+    "fields": {
+      "name": "Candy Oconnor",
+      "latitude": 71.98214,
+      "longitude": 72.004144
+    }
+  },
+  {
+    "model": "shop.Shops",
+    "pk": 24,
+    "fields": {
+      "name": "Carrie Vazquez",
+      "latitude": -85.044218,
+      "longitude": -83.590326
+    }
+  },
+  {
+    "model": "shop.Shops",
+    "pk": 25,
+    "fields": {
+      "name": "Tessa Benson",
+      "latitude": -30.643643,
+      "longitude": -101.921358
+    }
+  },
+  {
+    "model": "shop.Shops",
+    "pk": 26,
+    "fields": {
+      "name": "Kim Armstrong",
+      "latitude": -73.309729,
+      "longitude": 62.984386
+    }
+  },
+  {
+    "model": "shop.Shops",
+    "pk": 27,
+    "fields": {
+      "name": "Byrd Murphy",
+      "latitude": 65.061673,
+      "longitude": 71.130766
+    }
+  },
+  {
+    "model": "shop.Shops",
+    "pk": 28,
+    "fields": {
+      "name": "Addie Sharp",
+      "latitude": 63.23983,
+      "longitude": -55.04222
+    }
+  },
+  {
+    "model": "shop.Shops",
+    "pk": 29,
+    "fields": {
+      "name": "Walter Salinas",
+      "latitude": 74.103486,
+      "longitude": -11.326565
+    }
+  },
+  {
+    "model": "shop.Shops",
+    "pk": 30,
+    "fields": {
+      "name": "Calhoun Clayton",
+      "latitude": 29.39601,
+      "longitude": -75.614962
+    }
+  },
+  {
+    "model": "shop.Shops",
+    "pk": 31,
+    "fields": {
+      "name": "Katharine Sweeney",
+      "latitude": 54.482337,
+      "longitude": 177.975781
+    }
+  },
+  {
+    "model": "shop.Shops",
+    "pk": 32,
+    "fields": {
+      "name": "Riley Sargent",
+      "latitude": 11.327072,
+      "longitude": -131.751152
+    }
+  },
+  {
+    "model": "shop.Shops",
+    "pk": 33,
+    "fields": {
+      "name": "Blackburn Frazier",
+      "latitude": -24.791511,
+      "longitude": -74.941327
+    }
+  },
+  {
+    "model": "shop.Shops",
+    "pk": 34,
+    "fields": {
+      "name": "Montoya Moreno",
+      "latitude": -60.825939,
+      "longitude": -120.269661
+    }
+  },
+  {
+    "model": "shop.Shops",
+    "pk": 35,
+    "fields": {
+      "name": "Erin Hewitt",
+      "latitude": 38.560969,
+      "longitude": 50.491758
+    }
+  },
+  {
+    "model": "shop.Shops",
+    "pk": 36,
+    "fields": {
+      "name": "Kristi Larson",
+      "latitude": -71.025763,
+      "longitude": -61.189104
+    }
+  },
+  {
+    "model": "shop.Shops",
+    "pk": 37,
+    "fields": {
+      "name": "Marsh Hall",
+      "latitude": -25.069896,
+      "longitude": 114.93004
+    }
+  },
+  {
+    "model": "shop.Shops",
+    "pk": 38,
+    "fields": {
+      "name": "Frank Andrews",
+      "latitude": -69.864212,
+      "longitude": -151.517318
+    }
+  },
+  {
+    "model": "shop.Shops",
+    "pk": 39,
+    "fields": {
+      "name": "Marks Rice",
+      "latitude": -89.735196,
+      "longitude": -108.546173
+    }
+  },
+  {
+    "model": "shop.Shops",
+    "pk": 40,
+    "fields": {
+      "name": "Margie Crawford",
+      "latitude": -34.377353,
+      "longitude": 62.445416
+    }
+  },
+  {
+    "model": "shop.Shops",
+    "pk": 41,
+    "fields": {
+      "name": "Ellis Mcdaniel",
+      "latitude": 45.840465,
+      "longitude": -72.320661
+    }
+  },
+  {
+    "model": "shop.Shops",
+    "pk": 42,
+    "fields": {
+      "name": "Dudley Holloway",
+      "latitude": 11.124285,
+      "longitude": -92.347971
+    }
+  },
+  {
+    "model": "shop.Shops",
+    "pk": 43,
+    "fields": {
+      "name": "Franks Reyes",
+      "latitude": 28.640158,
+      "longitude": 147.237236
+    }
+  },
+  {
+    "model": "shop.Shops",
+    "pk": 44,
+    "fields": {
+      "name": "Aurelia Clay",
+      "latitude": -35.67265,
+      "longitude": 48.757834
+    }
+  },
+  {
+    "model": "shop.Shops",
+    "pk": 45,
+    "fields": {
+      "name": "Simon Love",
+      "latitude": -40.013966,
+      "longitude": 128.698246
+    }
+  },
+  {
+    "model": "shop.Shops",
+    "pk": 46,
+    "fields": {
+      "name": "Hollie Sears",
+      "latitude": 57.159463,
+      "longitude": -127.030694
+    }
+  },
+  {
+    "model": "shop.Shops",
+    "pk": 47,
+    "fields": {
+      "name": "Betsy Colon",
+      "latitude": -32.516471,
+      "longitude": -177.061349
+    }
+  },
+  {
+    "model": "shop.Shops",
+    "pk": 48,
+    "fields": {
+      "name": "Macias Macdonald",
+      "latitude": 83.722252,
+      "longitude": -171.284298
+    }
+  },
+  {
+    "model": "shop.Shops",
+    "pk": 49,
+    "fields": {
+      "name": "Earlene Rivas",
+      "latitude": -41.739579,
+      "longitude": 95.844362
+    }
+  }
+]
