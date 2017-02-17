@@ -8,4 +8,6 @@ def index(request):
     return render(request, 'shop/index.html', context)
 
 def detail(request, product_id):
-    return HttpResponse('<h2>Details for Product ID :'+str(product_id)+' </h2>')
+    product = Products.objects.get(pk=product_id)
+    context = {'product' : product}
+    return render(request, 'shop/product.html', context)
