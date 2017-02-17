@@ -2,2001 +2,3601 @@
   {
     "model": "shop.Products",
     "pk": 0,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 1,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 2,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 3,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 4,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 5,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 6,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 7,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 8,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 9,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 10,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 11,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 12,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 13,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 14,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 15,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 16,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 17,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 18,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 19,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 20,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 21,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 22,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 23,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 24,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 25,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 26,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 27,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 28,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 29,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 30,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 31,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 32,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 33,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 34,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 35,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 36,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 37,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 38,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 39,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 40,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 41,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 42,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 43,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 44,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 45,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 46,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 47,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 48,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 49,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 50,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 51,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 52,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 53,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 54,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 55,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 56,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 57,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 58,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 59,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 60,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 61,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 62,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 63,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 64,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 65,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 66,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 67,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 68,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 69,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 70,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 71,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 72,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 73,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 74,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 75,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 76,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 77,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 78,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 79,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 80,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 81,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 82,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 83,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 84,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 85,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 86,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 87,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 88,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 89,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 90,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 91,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 92,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 93,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 94,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 95,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 96,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 97,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 98,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 99,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 100,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 101,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 102,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 103,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 104,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 105,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 106,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 107,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 108,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 109,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 110,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 111,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 112,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 113,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 114,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 115,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 116,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 117,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 118,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 119,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 120,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 121,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 122,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 123,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 124,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 125,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 126,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 127,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 128,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 129,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 130,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 131,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 132,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 133,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 134,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 135,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 136,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 137,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 138,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 139,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 140,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 141,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 142,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 143,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 144,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 145,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 146,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 147,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 148,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 149,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 150,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 151,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 152,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 153,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 154,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 155,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 156,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 157,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 158,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 159,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 160,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 161,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 162,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 163,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 164,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 165,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 166,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 167,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 168,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 169,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 170,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 171,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 172,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 173,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 174,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 175,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 176,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 177,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 178,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 179,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 180,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 181,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 182,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 183,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 184,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 185,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 186,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 187,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 188,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 189,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 190,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 191,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 192,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 193,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 194,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 195,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 196,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 197,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 198,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 199,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 200,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 201,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 202,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 203,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 204,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 205,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 206,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 207,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 208,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 209,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 210,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 211,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 212,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 213,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 214,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 215,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 216,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 217,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 218,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 219,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 220,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 221,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 222,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 223,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 224,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 225,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 226,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 227,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 228,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 229,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 230,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 231,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 232,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 233,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 234,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 235,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 236,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 237,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 238,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 239,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 240,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 241,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 242,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 243,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 244,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 245,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 246,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 247,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 248,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 249,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 250,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 251,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 252,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 253,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 254,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 255,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 256,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 257,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 258,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 259,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 260,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 261,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 262,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 263,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 264,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 265,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 266,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 267,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 268,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 269,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 270,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 271,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 272,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 273,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 274,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 275,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 276,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 277,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 278,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 279,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 280,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 281,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 282,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 283,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 284,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 285,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 286,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 287,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 288,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 289,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 290,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 291,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 292,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 293,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 294,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 295,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 296,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 297,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 298,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 299,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 300,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 301,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 302,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 303,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 304,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 305,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 306,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 307,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 308,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 309,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 310,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 311,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 312,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 313,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 314,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 315,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 316,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 317,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 318,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 319,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 320,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 321,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 322,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 323,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 324,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 325,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 326,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 327,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 328,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 329,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 330,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 331,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 332,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 333,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 334,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 335,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 336,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 337,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 338,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 339,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 340,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 341,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 342,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 343,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 344,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 345,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 346,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 347,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 348,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 349,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 350,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 351,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 352,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 353,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 354,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 355,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 356,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 357,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 358,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 359,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 360,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 361,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 362,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 363,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 364,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 365,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 366,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 367,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 368,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 369,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 370,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 371,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 372,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 373,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 374,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 375,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 376,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 377,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 378,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 379,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 380,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 381,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 382,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 383,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 384,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 385,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 386,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 387,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 388,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 389,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 390,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 391,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 392,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 393,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 394,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 395,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 396,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 397,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 398,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   },
   {
     "model": "shop.Products",
     "pk": 399,
-    "fields": {}
+    "fields": {
+      "name": "replace_it",
+      "image": "replace_it",
+      "description": "here is the description for each product"
+    }
   }
 ]
