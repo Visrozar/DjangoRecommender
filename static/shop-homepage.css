@@ -20,10 +20,6 @@ body {
     overflow: hidden;
 }
 
-.caption h4 {
-    white-space: nowrap;
-}
-
 .thumbnail img {
     width: 100%;
 }

@@ -4,6 +4,7 @@ from .models import Products
 
 def index(request):
     all_products = Products.objects.all()
+    kitchen_products = Products.objects.filter(category = 'kitchen')
     context = {'all_products' : all_products}
     return render(request, 'shop/index.html', context)
 

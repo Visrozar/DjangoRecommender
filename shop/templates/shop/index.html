@@ -18,7 +18,7 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
 
     <!-- Custom CSS -->
-    <link href="shop-homepage.css" rel="stylesheet">
+    <link href="/static/shop-homepage.css" rel="stylesheet">
 
 </head>
 
@@ -41,11 +41,12 @@
         <div class="row">
 
             <div class="col-md-3">
-                <p class="lead">The Awesomest Shop Ever !!!</p>
+                <p class="lead">Sort by Categories</p>
                 <div class="list-group">
-                    <a href="#" class="list-group-item">Category 1</a>
-                    <a href="#" class="list-group-item">Category 2</a>
-                    <a href="#" class="list-group-item">Category 3</a>
+                    <a href="#" class="list-group-item">Clothing</a>
+                    <a href="#" class="list-group-item">Sports</a>
+                    <a href="#" class="list-group-item">Kitchen</a>
+                    <a href="#" class="list-group-item">Electronics</a>
                 </div>
             </div>
 
@@ -59,16 +60,20 @@
                                 <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
                                 <li data-target="#carousel-example-generic" data-slide-to="1"></li>
                                 <li data-target="#carousel-example-generic" data-slide-to="2"></li>
+                                <li data-target="#carousel-example-generic" data-slide-to="3"></li>
                             </ol>
                             <div class="carousel-inner">
                                 <div class="item active">
-                                    <img class="slide-image" src="http://placehold.it/800x300" alt="">
+                                    <img class="slide-image" src="/static/Sports.jpg" alt="">
                                 </div>
                                 <div class="item">
-                                    <img class="slide-image" src="http://placehold.it/800x300" alt="">
+                                    <img class="slide-image" src="/static/Kitchen.jpg" alt="">
                                 </div>
                                 <div class="item">
-                                    <img class="slide-image" src="http://placehold.it/800x300" alt="">
+                                    <img class="slide-image" src="/static/Electronics.jpg" alt="">
+                                </div>
+                                <div class="item">
+                                    <img class="slide-image" src="/static/Clothing.jpg" alt="">
                                 </div>
                             </div>
                             <a class="left carousel-control" href="#carousel-example-generic" data-slide="prev">
@@ -83,7 +88,7 @@
                 </div>
 
                 <div class="row">
-                  {% for product in all_products %}
+                  {% for product in kitchen_products %}
                   <a href="/shop/{{product.id}}">
                     <div class="col-sm-4 col-lg-4 col-md-4">
                         <div class="thumbnail">
@@ -92,7 +97,7 @@
                                 <h4 class="pull-right">{{product.price}}</h4>
                                 <h4>{{product.name}}
                                 </h4>
-                                <p>{{product.description}}</p>
+                                <p>{{product.shops}}</p>
                             </div>
                             <div class="ratings">
                                 <p class="pull-right">15 reviews</p>

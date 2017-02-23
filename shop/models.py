@@ -10,11 +10,11 @@ class Shops(models.Model):
 
 class Products(models.Model):
     name = models.CharField(max_length=200)
-    price = models.IntegerField(default=0)
+    price = models.CharField(max_length=10)
     description = models.CharField(max_length=400, default=0)
     category = models.CharField(max_length=200)
     image = models.CharField(max_length=1000)
-    shops = models.ManyToManyField(Shops, through='ShopsProducts')
+    shops = models.ManyToManyField(Shops, through='ShopsProducts', through_fields=('product', 'shop'),)
 
     def __str__(self):
         return self.name
