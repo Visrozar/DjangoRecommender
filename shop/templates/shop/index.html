@@ -29,7 +29,7 @@
         <div class="container">
             <!-- Brand and toggle get grouped for better mobile display -->
             <div class="navbar-header">
-                <a class="navbar-brand" href="#">My Awesome Shop !!!</a>
+                <a class="navbar-brand" href="/shop">My Awesome Shop !!!</a>
             </div>
         </div>
         <!-- /.container -->
@@ -43,10 +43,10 @@
             <div class="col-md-3">
                 <p class="lead">Sort by Categories</p>
                 <div class="list-group">
-                    <a href="#" class="list-group-item">Clothing</a>
-                    <a href="#" class="list-group-item">Sports</a>
-                    <a href="#" class="list-group-item">Kitchen</a>
-                    <a href="#" class="list-group-item">Electronics</a>
+                    <a href="/shop/clothing" class="list-group-item">Clothing</a>
+                    <a href="/shop/sports" class="list-group-item">Sports</a>
+                    <a href="/shop/kitchen" class="list-group-item">Kitchen</a>
+                    <a href="/shop/electronics" class="list-group-item">Electronics</a>
                 </div>
             </div>
 
@@ -87,10 +87,10 @@
 
                 </div>
 
-                <div class="row">
-                  {% for product in kitchen_products %}
+                <div class="menu row">
+                  {% for product in all_products %}
                   <a href="/shop/{{product.id}}">
-                    <div class="col-sm-4 col-lg-4 col-md-4">
+                    <div class="menu-category list-group">
                         <div class="thumbnail">
                             <img src={{product.image}} alt="">
                             <div class="caption">
