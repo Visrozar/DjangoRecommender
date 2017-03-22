@@ -42,29 +42,34 @@
         <div class="content-wrapper">
         <div class="item-container">
           <div class="container">
-            <div class="col-md-12">
+            <!-- <div class="col-md-12">
               <div class="product col-md-3 service-image-left">
                     <img src={{product.image}} alt="">
               </div>
-            </div>
+            </div> -->
 
-            <div class="col-md-7">
+            <div class="col-md-12">
               <div class="product-title">{{product.name}}</div>
-              <div class="product-rating"><i class="fa fa-star gold"></i> <i class="fa fa-star gold"></i> <i class="fa fa-star gold"></i> <i class="fa fa-star gold"></i> <i class="fa fa-star-o"></i> </div>
-              <button type="button" class="btn btn-success">
+              <!-- <div class="product-rating"><i class="fa fa-star gold"></i> <i class="fa fa-star gold"></i> <i class="fa fa-star gold"></i> <i class="fa fa-star gold"></i> <i class="fa fa-star-o"></i> </div> -->
+              <!-- <button type="button" class="btn btn-success">
                 Add Review
-              </button>
-              <div class="product-price">{{product.price}}</div>
+              </button> -->
+              <!-- <div class="product-price">{{product.price}}</div> -->
               <hr>
+              {% for movie in product %}
+              <div class="menu row">
+                <div class="menu-category list-group">
+                    <div class="thumbnail">
+                        <div class="caption">
+                            <h4>{{movie.recommend.name}}</h4>
+                        </div>
+                    </div>
+                </div>
+              </div>
+              {% endfor %}
             </div>
           </div>
         </div>
-
-        <!-- Isaac kun, write your Map Code here -->
-
-          Map code will go here !!!
-
-        <!-- And finish before here -->
 
 
       </div>
