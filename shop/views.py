@@ -5,6 +5,7 @@ from django.views.generic import View
 from .models import Products
 from .models import Recommends
 from .forms import UserForm
+from django.contrib.auth.models import User
 
 def index(request):
     all_products = Products.objects.exclude(pk= 0)
@@ -32,9 +33,15 @@ class UserFormView(View):
     def post(self, request):
         form = self.form_class(request.POST)
         if form.is_valid():
-            user = form.save(commit = False)
             username = form.cleaned_data['username']
             password = form.cleaned_data['password']
+            if User.objects.filter(username=username).exists():
+                user = authenticate(username = username, password = password)
+                # if user is not None:
+                if user.is_active:
+                    login(request, user)
+                    return redirect('shop:index')
+            user = form.save(commit = False)
             user.set_password(password)
             user.save()
 
